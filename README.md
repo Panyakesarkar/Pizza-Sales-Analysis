@@ -35,5 +35,5 @@ Pizza Types: Contains pizza_type_id, name, category, and ingredients.
 This analysis provides a clear roadmap for the pizza shop's inventory and marketing strategy. By focusing on high-revenue items like the Thai Chicken Pizza and ensuring staffing is optimized for 12:00 PM and 6:00 PM peaks, the business can improve both efficiency and profitability.
 
 *Author:* Pranav Kesarkar  
-*Internship:* Data Analyst Intern. 
+*Internship:* Data Analyst Intern at Cravita Technologies  
 *Connect with me:* [LinkedIn](https://www.linkedin.com/in/pranav-kesarkar)
