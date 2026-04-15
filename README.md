@@ -10,10 +10,10 @@ Microsoft Word: Professional reporting and documentation.
 
 🗄️ Dataset Structure:
 The project utilizes a relational database consisting of four main tables:
-Orders: Contains order_id, date, and time (Used for peak hour analysis).
-Order Details: Contains order_details_id, order_id, pizza_id, and quantity.
-Pizzas: Contains pizza_id, pizza_type_id, size, and price.
-Pizza Types: Contains pizza_type_id, name, category, and ingredients.
+! Orders: Contains order_id, date, and time (Used for peak hour analysis).
+! Order Details: Contains order_details_id, order_id, pizza_id, and quantity.
+! Pizzas: Contains pizza_id, pizza_type_id, size, and price.
+! Pizza Types: Contains pizza_type_id, name, category, and ingredients.
 
 📈 Key Insights & Findings:
 1. General Metrics:
